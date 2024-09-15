@@ -16,4 +16,8 @@
   "C_Cpp.vcFormat.space.aroundTernaryOperator": "insert",
   "C_Cpp.vcFormat.space.afterCastCloseParenthesis": true,
   "C_Cpp.vcFormat.space.afterComma": true,
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
 }
